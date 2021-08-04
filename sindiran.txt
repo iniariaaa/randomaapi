@@ -1,0 +1,5 @@
+{
+  "status": true,
+  "creator": "AriaPutra",
+  "result": "Percuma fitur banyak tapi pada mati"
+}
